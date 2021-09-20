@@ -1,0 +1,15 @@
+{
+    "name": "Base.InterfaceAdapters",
+    "references": [
+        "GUID:25654cea3703e274388c80bbeb0dd0f4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

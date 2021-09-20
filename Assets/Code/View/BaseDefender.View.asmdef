@@ -1,0 +1,15 @@
+{
+    "name": "Base.View",
+    "references": [
+        "GUID:376a8fb0a4200dd428a14d3cdb0d3fec"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
